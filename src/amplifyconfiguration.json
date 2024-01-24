@@ -1,0 +1,8 @@
+{
+  "aws_project_region": "ap-south-1",
+  "awsExports": {
+    "REGION": "ap-south-1",
+    "USER_POOL_ID": "ap-south-1_tiTtQFXgV",
+    "USER_POOL_APP_CLIENT_ID": "1v381ulabdhba86g8jltjv38uv"
+  }
+}
